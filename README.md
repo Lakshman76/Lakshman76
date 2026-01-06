@@ -72,7 +72,7 @@
 ### 🏅 My Holopin Badge Board  
 <p align="center">
   <a href="https://holopin.io/@lakshman76">
-    <img src="https://holopin.me/lakshman76" alt="@diksha78bot's Holopin badges" />
+    <img src="https://holopin.me/lakshman76" alt="@lakshman76's Holopin badges" />
   </a>
 </p>
 
